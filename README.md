@@ -1,5 +1,5 @@
 ## Hi there 👋
-Min Woo In
+## Min Woo In
 
 <!--
 **minwuin/minwuin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
